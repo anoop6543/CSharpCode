@@ -1,0 +1,6 @@
+c:\users\viswa\documents\visual studio 2015\Projects\hackerrank_example2\hackerrank_example2\bin\Debug\hackerrank_example2.exe.config
+c:\users\viswa\documents\visual studio 2015\Projects\hackerrank_example2\hackerrank_example2\bin\Debug\hackerrank_example2.exe
+c:\users\viswa\documents\visual studio 2015\Projects\hackerrank_example2\hackerrank_example2\bin\Debug\hackerrank_example2.pdb
+c:\users\viswa\documents\visual studio 2015\Projects\hackerrank_example2\hackerrank_example2\obj\Debug\hackerrank_example2.csprojResolveAssemblyReference.cache
+c:\users\viswa\documents\visual studio 2015\Projects\hackerrank_example2\hackerrank_example2\obj\Debug\hackerrank_example2.exe
+c:\users\viswa\documents\visual studio 2015\Projects\hackerrank_example2\hackerrank_example2\obj\Debug\hackerrank_example2.pdb

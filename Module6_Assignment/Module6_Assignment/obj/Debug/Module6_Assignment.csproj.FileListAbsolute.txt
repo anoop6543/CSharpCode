@@ -1,0 +1,6 @@
+c:\users\viswa\documents\visual studio 2015\Projects\Module6_Assignment\Module6_Assignment\bin\Debug\Module6_Assignment.exe.config
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\Module6_Assignment\Module6_Assignment\bin\Debug\Module6_Assignment.exe
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\Module6_Assignment\Module6_Assignment\bin\Debug\Module6_Assignment.pdb
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\Module6_Assignment\Module6_Assignment\obj\Debug\Module6_Assignment.csprojResolveAssemblyReference.cache
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\Module6_Assignment\Module6_Assignment\obj\Debug\Module6_Assignment.exe
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\Module6_Assignment\Module6_Assignment\obj\Debug\Module6_Assignment.pdb

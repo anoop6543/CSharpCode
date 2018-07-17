@@ -1,0 +1,16 @@
+c:\users\viswa\documents\visual studio 2015\Projects\sampleaapplication\sampleaapplication\bin\Debug\sampleaapplication.exe.config
+c:\users\viswa\documents\visual studio 2015\Projects\sampleaapplication\sampleaapplication\bin\Debug\sampleaapplication.exe
+c:\users\viswa\documents\visual studio 2015\Projects\sampleaapplication\sampleaapplication\bin\Debug\sampleaapplication.pdb
+c:\users\viswa\documents\visual studio 2015\Projects\sampleaapplication\sampleaapplication\obj\Debug\sampleaapplication.csprojResolveAssemblyReference.cache
+c:\users\viswa\documents\visual studio 2015\Projects\sampleaapplication\sampleaapplication\obj\Debug\MainWindow.g.cs
+c:\users\viswa\documents\visual studio 2015\Projects\sampleaapplication\sampleaapplication\obj\Debug\App.g.cs
+c:\users\viswa\documents\visual studio 2015\Projects\sampleaapplication\sampleaapplication\obj\Debug\sampleaapplication_MarkupCompile.cache
+c:\users\viswa\documents\visual studio 2015\Projects\sampleaapplication\sampleaapplication\obj\Debug\sampleaapplication_MarkupCompile.lref
+c:\users\viswa\documents\visual studio 2015\Projects\sampleaapplication\sampleaapplication\obj\Debug\MainWindow.baml
+c:\users\viswa\documents\visual studio 2015\Projects\sampleaapplication\sampleaapplication\obj\Debug\sampleaapplication.g.resources
+c:\users\viswa\documents\visual studio 2015\Projects\sampleaapplication\sampleaapplication\obj\Debug\sampleaapplication.Properties.Resources.resources
+c:\users\viswa\documents\visual studio 2015\Projects\sampleaapplication\sampleaapplication\obj\Debug\sampleaapplication.csproj.GenerateResource.Cache
+c:\users\viswa\documents\visual studio 2015\Projects\sampleaapplication\sampleaapplication\obj\Debug\sampleaapplication.exe
+c:\users\viswa\documents\visual studio 2015\Projects\sampleaapplication\sampleaapplication\obj\Debug\sampleaapplication.pdb
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\sampleaapplication\sampleaapplication\obj\Debug\window2.g.cs
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\sampleaapplication\sampleaapplication\obj\Debug\window2.baml

@@ -1,0 +1,9 @@
+c:\users\viswa\documents\visual studio 2015\Projects\Module1_practice\Module1_practice\bin\Debug\Module1_practice.exe.config
+c:\users\viswa\documents\visual studio 2015\Projects\Module1_practice\Module1_practice\obj\Debug\Module1_practice.csprojResolveAssemblyReference.cache
+c:\users\viswa\documents\visual studio 2015\Projects\Module1_practice\Module1_practice\bin\Debug\Module1_practice.exe
+c:\users\viswa\documents\visual studio 2015\Projects\Module1_practice\Module1_practice\bin\Debug\Module1_practice.pdb
+c:\users\viswa\documents\visual studio 2015\Projects\Module1_practice\Module1_practice\obj\Debug\Module1_practice.exe
+c:\users\viswa\documents\visual studio 2015\Projects\Module1_practice\Module1_practice\obj\Debug\Module1_practice.pdb
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module1_assignment\Module1_practice\bin\Debug\Module1_practice.exe.config
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module1_assignment\Module1_practice\obj\Debug\Module1_practice.exe
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module1_assignment\Module1_practice\obj\Debug\Module1_practice.pdb

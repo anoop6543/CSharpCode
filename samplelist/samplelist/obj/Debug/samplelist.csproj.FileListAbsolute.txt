@@ -1,0 +1,6 @@
+c:\users\viswa\documents\visual studio 2015\Projects\samplelist\samplelist\bin\Debug\samplelist.exe.config
+c:\users\viswa\documents\visual studio 2015\Projects\samplelist\samplelist\bin\Debug\samplelist.exe
+c:\users\viswa\documents\visual studio 2015\Projects\samplelist\samplelist\bin\Debug\samplelist.pdb
+c:\users\viswa\documents\visual studio 2015\Projects\samplelist\samplelist\obj\Debug\samplelist.csprojResolveAssemblyReference.cache
+c:\users\viswa\documents\visual studio 2015\Projects\samplelist\samplelist\obj\Debug\samplelist.exe
+c:\users\viswa\documents\visual studio 2015\Projects\samplelist\samplelist\obj\Debug\samplelist.pdb

@@ -1,0 +1,6 @@
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module3_assignment\sampledattime\sampledattime\bin\Debug\sampledattime.exe.config
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module3_assignment\sampledattime\sampledattime\bin\Debug\sampledattime.exe
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module3_assignment\sampledattime\sampledattime\bin\Debug\sampledattime.pdb
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module3_assignment\sampledattime\sampledattime\obj\Debug\sampledattime.csprojResolveAssemblyReference.cache
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module3_assignment\sampledattime\sampledattime\obj\Debug\sampledattime.exe
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module3_assignment\sampledattime\sampledattime\obj\Debug\sampledattime.pdb

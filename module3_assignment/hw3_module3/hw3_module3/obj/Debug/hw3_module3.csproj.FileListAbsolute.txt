@@ -1,0 +1,6 @@
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module3_assignment\hw3_module3\hw3_module3\bin\Debug\hw3_module3.exe.config
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module3_assignment\hw3_module3\hw3_module3\bin\Debug\hw3_module3.exe
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module3_assignment\hw3_module3\hw3_module3\bin\Debug\hw3_module3.pdb
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module3_assignment\hw3_module3\hw3_module3\obj\Debug\hw3_module3.csprojResolveAssemblyReference.cache
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module3_assignment\hw3_module3\hw3_module3\obj\Debug\hw3_module3.exe
+C:\Users\viswa\Documents\Visual Studio 2015\Projects\module3_assignment\hw3_module3\hw3_module3\obj\Debug\hw3_module3.pdb
